@@ -1,0 +1,12 @@
+
+h1 {
+    color: black ;
+    margin: 10px red;
+    border: 3px solid black;
+    background-color: lightgrey ;
+   }
+
+.small-image {
+    width: 200px;
+}
+
